@@ -2,18 +2,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50931461936"
-global.ownername = "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "243904468847"
+global.ownername = "𝑻𝑯𝑶𝑴𝑨𝑺 𝐒𝐇𝐄𝐋𝐁𝐘𖠜𖠜𝐆𝐑𝐈𝐌𝐌𖠜𖠜"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
 
-global.ownernumber = '50931461936'  //creator number
-global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
+global.ownernumber = '243904468847'  //creator number
+global.ownername = '𝑻𝑯𝑶𝑴𝑨𝑺 𝐒𝐇𝐄𝐋𝐁𝐘𖠜𖠜𝐆𝐑𝐈𝐌𝐌𖠜𖠜' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
-global.packname = '🗾'
+global.packname = '𝑻𝑯𝑶𝑴𝑨𝑺 𝐒𝐇𝐄𝐋𝐁𝐘𖠜𖠜𝐆𝐑𝐈𝐌𝐌𖠜𖠜'
 global.author = '𝙎-𝙏𝞢𝞜'
 
 //console view/theme
@@ -24,7 +24,7 @@ global.wm = "𝙎-𝙏𝞢𝞜"
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
